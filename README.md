@@ -5,6 +5,7 @@ Java RESTful API criada para ilustrar um domínio bancário.
 
 ```mermaid
 classDiagram
+
   class User {
     -String name
     -Account account
